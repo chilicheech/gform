@@ -96,17 +96,6 @@ div.ss-submit div.ss-form-entry {
 
 <div class="ss-item ss-navigate"><div class="ss-form-entry">
 <input type="submit" name="submit" value="Submit" id="ss-submit"></div></div></form></div>
-<div class="ss-footer"><div class="ss-attribution"></div>
-<div class="ss-legal"><div class="disclaimer-separator"></div>
-<div class="disclaimer"><div class="powered-by-logo"><span class="powered-by-text">Powered by</span>
-<a class="ss-logo-link" href="http://docs.google.com"><img class="ss-logo" src="//ssl.gstatic.com/docs/forms/drive_logo_small.png" alt="Google Drive"></a></div>
-<div class="ss-terms"><span class="disclaimer-msg">This content is neither created nor endorsed by Google.</span>
-<br>
-<a href="https://docs.google.com/forms/d/1PtaF5WhKXlqXjZZMy1STRPsC7A94Vd-3EQ8Rq4VTeuo/reportabuse?source=https://docs.google.com/forms/d/1PtaF5WhKXlqXjZZMy1STRPsC7A94Vd-3EQ8Rq4VTeuo/viewform">Report Abuse</a>
--
-<a href="http://www.google.com/accounts/TOS">Terms of Service</a>
--
-<a href="http://www.google.com/google-d-s/terms.html">Additional Terms</a></div></div></div></div>
 </div>
 
 <script type='text/javascript' src='/static/forms/client/js/3090771720-formviewer_prd.js'></script>
